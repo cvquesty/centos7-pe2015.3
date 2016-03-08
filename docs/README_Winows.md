@@ -33,7 +33,7 @@ In the past, you would need to download the PE Package manually here:
 
 	https://s3.amazonaws.com/pe-builds/released/3.7.1/puppet-enterprise-3.7.1-el-6-x86_64.tar.gz
 
-Move it to the C:\Users\<username>\.vagrant.d\.pe_builds directory.
+Move it to the C:\Users\\<username>\.vagrant.d\.pe_builds directory.
 
 **Create a Workspace and Clone this Repository**
 
